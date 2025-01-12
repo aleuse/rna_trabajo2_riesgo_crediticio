@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 data/input/loan.csv
+data/output/loan_cleaned.csv
